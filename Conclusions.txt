@@ -1,0 +1,87 @@
+GENERAL RESULTS after 45 days trial
+
+Placebo's Results
+		Average Volume Growth....................... +51.297%
+			Standard Error on Volume Growth.....  1.352
+		Average Metastatic Sites....................  3.273
+			Standard Error on Metastatic Sites..  0.304
+		Survival Rate...............................  44%
+
+1. Successful Drugs
+	Ramicane 
+		Average Volume Growth....................... -22.32% (Lowest volume growth / Highest volume reduction)
+			Standard Error on Volume Growth.....  1.227
+		Average Metastatic Sites....................  1.250 (Lowest Metastatic Sites)
+			Standard Error on Metastatic Sites..  0.190
+		Survival Rate...............................  80%
+		
+	Capomulin
+		Average Volume Growth....................... -19.48% 
+			Standard Error on Volume Growth.....  1.224
+		Average Metastatic Sites....................  1.476
+			Standard Error on Metastatic Sites..  0.203
+		Survival Rate...............................  84% (Highest survival rate)
+
+
+2. Drugs with better Survival Rates than Placebo's
+
+	Ceftamin 
+		Average Volume Growth....................... +42.516% (Better than Placebo's)
+			Standard Error on Volume Growth.....  0.902
+		Average Metastatic Sites....................  2.692 (Better than Placebo's)
+			Standard Error on Metastatic Sites..  0.286
+		Survival Rate...............................  52% (Better than Placebo's)
+	
+	Naftisol
+		Average Volume Growth....................... 53.923% (Worse than Placebo's)
+			Standard Error on Volume Growth.....  1.416
+		Average Metastatic Sites....................  2.538 (Better than Placebo's)
+			Standard Error on Metastatic Sites..  0.351
+		Survival Rate...............................  52% (Better than Placebo's)
+
+
+	Zoniferol
+		Average Volume Growth....................... +46.580% (Lower than Placebo's)
+			Standard Error on Volume Growth.....  1.003
+		Average Metastatic Sites....................  3.071 (Better than Placebo's)
+			Standard Error on Metastatic Sites..  0.286
+		Survival Rate...............................  56% (Better than Placebo's)
+
+
+3. Drugs with similar or worse Survival Rates than Placebo's
+
+	Infubinol
+		Average Volume Growth....................... +46.123% (Better than Placebo's)
+			Standard Error on Volume Growth.....  1.144
+		Average Metastatic Sites....................  2.111 (Better than Placebo's)
+			Standard Error on Metastatic Sites..  0.309
+		Survival Rate...............................  36% (Worse than Placebo's)
+
+	Ketrapil
+		Average Volume Growth....................... +57.029 (Highest volume growth)
+			Standard Error on Volume Growth.....  1.453
+		Average Metastatic Sites....................  3.364 (Highest Metastatic Sites)
+			Standard Error on Metastatic Sites..  0.279
+		Survival Rate...............................  44% (Similar to Placebo's)
+	
+	Stelasyn
+		Average Volume Growth....................... +52.085 (Worse than Placebo's)
+			Standard Error on Volume Growth.....  1.577
+		Average Metastatic Sites....................  1.727 (Better than Placebo's)
+			Standard Error on Metastatic Sites..  0.359
+		Survival Rate...............................  42% (Worse than Placebo's)
+
+	Propiva
+		Average Volume Growth....................... +47.241% (Better than Placebo's)
+			Standard Error on Volume Growth.....  1.889
+		Average Metastatic Sites....................  2.571 (Better than Placebo's)
+			Standard Error on Metastatic Sites..  0.429
+		Survival Rate...............................  27% (Lowest Survival Rate)
+
+PRELIMINAR CONCLUSIONS
+1. There is a direct relation between actually reducing the Tumor Volume and the increase in Survival Rate
+	Both of the Drugs that achieved the reduction of the tumor, have the higest survival rate
+
+2. If there is no Volume Growth reduction the chances are Metastatic Sites will increase
+
+3. If reducing the tumor is not achieved, the Survival Rates vary from drug to drug in great matter, making it difficult to have a direct correlation between Volume Growth or Metastatic Sites and Survival Rate.
